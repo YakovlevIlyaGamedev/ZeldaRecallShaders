@@ -371,7 +371,7 @@ PrefabInstance:
     - target: {fileID: 2959393675817261926, guid: 4b14d5c75e18afb4c9e1f99461de5b53,
         type: 3}
       propertyPath: _effectsFeatures.Array.size
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2959393675817261926, guid: 4b14d5c75e18afb4c9e1f99461de5b53,
         type: 3}
@@ -383,7 +383,7 @@ PrefabInstance:
         type: 3}
       propertyPath: _effectsFeatures.Array.data[1]
       value: 
-      objectReference: {fileID: -3798701210127179746, guid: c40be3174f62c4acf8c1216858c64956,
+      objectReference: {fileID: 4027551922639386611, guid: c40be3174f62c4acf8c1216858c64956,
         type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -454,7 +454,7 @@ GameObject:
   - component: {fileID: 1514066592}
   - component: {fileID: 1514066591}
   - component: {fileID: 1514066590}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Obj3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
