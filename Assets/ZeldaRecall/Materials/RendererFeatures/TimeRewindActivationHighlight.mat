@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2412856472738556489
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TimeRewindActivationHighlight
+  m_Shader: {fileID: -6465566751694194690, guid: a055e8a558b7894408177c8af7bf5d0e,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_e681a38c0d874782bff0434a0f18abce_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: c9fd4ccfc3404b04eae3cd87e40a8e2e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: d9c0dd5cdac07b145be73329e489869a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _FlickerAdditition: 2
+    - _FlickerAmplitude: 1.8
+    - _FlickerFrequency: 0.9
+    - _GradienNoiseScale: 0.99
+    - _LineEdge1: 0.28
+    - _LineEdge2: 0.34
+    - _LineWidth: 0.025
+    - _LinesOpacity: 0.9
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RotationSpeed: 0.02
+    - _SinMultiplie: 1
+    - _Step: 0.21
+    - _VoronoiNoiseScale: 0.68
+    m_Colors:
+    - _ColorLines: {r: 1.393029, g: 0.9116681, b: 0, a: 0}
+    - _OffsetSpeed: {r: 0.02, g: 0.02, b: 0, a: 0}
+    - _OverlayColor: {r: 0.047169805, g: 0.03321911, b: 0, a: 0}
+    - _SpeedOffset: {r: 0.03, g: 0.03, b: 0, a: 0}
+  m_BuildTextureStacks: []
