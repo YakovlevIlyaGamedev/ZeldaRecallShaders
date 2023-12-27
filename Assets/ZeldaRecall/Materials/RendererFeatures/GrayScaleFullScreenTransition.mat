@@ -51,7 +51,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Add: 0.01
-    - _Edge: 0
+    - _Edge: 0.06549729
     - _Edge2: 0.77
     - _Metallic: 0
     - _NoiseScale: 0.19

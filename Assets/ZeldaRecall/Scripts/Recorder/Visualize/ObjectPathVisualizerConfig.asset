@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c2c0cd8eaebda4daf55d8ee014df9c, type: 3}
+  m_Name: ObjectPathVisualizerConfig
+  m_EditorClassIdentifier: 
+  <PathPrefab>k__BackingField: {fileID: 8020519483944534695, guid: 39bbe3b1de86f2644b595539d328e68f,
+    type: 3}
+  <ArrowHeadPrefab>k__BackingField: {fileID: 7081934224941679180, guid: 7733fdbf4b9fa59438e6419129aa5fe6,
+    type: 3}
+  <IntervalBetweenVisualisableObjects>k__BackingField: 15
